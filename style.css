@@ -1,0 +1,155 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.bck{
+    background-color: black;
+    width: 100%;
+    height: 100%;
+}
+.main{
+    margin-left: 16%;
+    margin-right: 16%;
+}
+.class{
+    width: 100%;
+    height: 100px;
+    background-color: #69b7ea;
+}
+.logo{
+    width: 15%;
+    height: 100%;
+}
+h2{
+    color: darkblue;
+    margin-top: -80px;
+    margin-left: 300px;
+    
+}
+p{
+    color: black;
+    margin-top: -70;
+    margin-left: 360px;
+}
+.time{
+    background: linear-gradient(black,rgb(107, 107, 253));
+    height: 35px;
+    width: 100%;
+}
+.date{
+    color: white;
+}
+.line{
+    background-color: white;
+    height: 35px;
+    width: 100%;
+    
+}
+.welc{
+    color: black;
+    font-size: larger;
+    
+    
+}
+.not{
+    background-color: white;
+   
+
+}
+.word{
+    color: blue;
+}
+.head{
+    color: white;
+}
+.main1{
+    background: linear-gradient(black,rgb(107, 107, 253));
+    height: 35px;
+    width: 70%;
+    margin-left: 10px;
+    background-color: white;
+    
+    
+   }
+.new{
+    color: rgb(255, 255, 255);
+}
+.you{
+    color:black;
+    
+    
+}
+.box{
+    height: 300px;
+    width: 70%;
+    margin-left: 10px;
+    background-color: #cdd9e2;
+
+}
+.new2{
+    color: white;
+}
+.main2{
+    background: linear-gradient(black,rgb(107, 107, 253));
+    height: 35px;
+    width: 70%;
+    margin-left: 10px;
+    
+   }
+   .box2{
+    height: 300px;
+    width: 70%;
+    margin-left: 10px;
+    background-color: #cdd9e2;
+
+}
+.me{
+    color: black;
+}
+   
+.box5{
+    height: 500px;
+    width: 70%;
+    margin-left: 10px;
+    background-color: #cdd9e2;
+
+}
+.new3{
+    color: white;
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 40px;
+}
+
+.sidebarh{
+    background: linear-gradient(black,rgb(107, 107, 253));
+    height: 35px;
+    width:90%;
+    margin-left: 10px;
+}
+.top{
+    float: right;
+    width: 300px;
+    margin-top: -2225px;
+}
+.h{
+    color: white;
+}
+.l{
+    color: black;
+}
+.data4{
+    background-color: #cdd9e2;
+    height: 330px;
+}
+.j{
+
+    color: black;
+    background-color: white(181, 41, 41);
+    height: 20px;
+    
+}
+.top{
+    border: 2px solid black;
+    width: 280px;
+}
